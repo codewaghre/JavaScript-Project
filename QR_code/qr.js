@@ -24,7 +24,7 @@ qrdownlaod.addEventListener('click', async () => {
     const response =  await fetch(qrimg.src) // fetch the value for qrimg.src
     const blob = await response.blob() 
     const downlaodLink = document.createElement("a")
-    downlaodLink.href = URL.createObjectURL(blob)
+    downlaodLink.href = URL.createObjectURL(blob) //convert blob  data inot url
     downlaodLink.download = "qrcode.jpg"
     downlaodLink.click()
 

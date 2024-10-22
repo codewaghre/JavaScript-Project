@@ -27,12 +27,16 @@ Welcome
 
 
 
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 There were several challenges in these mini projects that we handled. 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Project-ss-01](https://github.com/user-attachments/assets/041573db-0f46-493d-98f8-f57377dc3f24)
+
+![Project-ss-02](https://github.com/user-attachments/assets/78ad939a-a65f-40b3-8133-b4b1af59b21a)
 
 This small project is made for beginners to address javascript errors, provide hands-on experience, and learn how to utilize fetch and dom. , How does an event loop operate? 
 What is a curring etch callback function?,  etc

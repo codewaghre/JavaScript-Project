@@ -43,7 +43,7 @@ What is a curring etch callback function?,  etc
 
 
 Here's why:
-* under the HTML Multiple Stadning tag.
+* HTML Multiple tags
 * Block versus inline elements
 * CSS colors, CSS box properties.
 * CSS variable classes, and pseudo classes
